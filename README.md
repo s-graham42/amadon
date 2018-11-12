@@ -12,7 +12,7 @@ Instructions
     - the total price for the most recent order
     - the total quantity of all orders combined
     - the total price of all orders combined
-6. After making an order, hit the refresh button while on the checkout page. What do you notice?
+6. After making an order, hit the refresh button while on the checkout page and say yes/confirm if prompted. What do you notice?
 7. Fix this issue so that users don't inadvertently make another order by mistake!
 8. Go back to the order form and use your browser's inspect element tool. Change the price of an item and then place an order. What do you notice?
 9. Fix this issue so that users don't get to set the price of their items!
