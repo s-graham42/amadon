@@ -10,9 +10,9 @@ Instructions
 4. Run the server and make a purchase
 5. Add some basic styling (use Bootstrap or another CSS framework)
 6. Calculate and display the following values on the checkout.html page:
-    - the total price for the most recent order
-    - the total quantity of all orders combined
-    - the total price of all orders combined
+    - the total amount charged for the most recent order
+    - the total quantity of ordered items across all orders combined
+    - the total amount charged across all orders combined
 7. After making an order, hit the refresh button while on the checkout page and say yes/confirm if prompted. What do you notice?
 8. Fix this issue so that users don't inadvertently make another order by mistake!
 9. Go back to the order form and use your browser's inspect element tool. Change the price of an item and then place an order. What do you notice?
