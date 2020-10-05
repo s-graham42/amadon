@@ -16,5 +16,5 @@ Including another URLconf
 from django.conf.urls import url, include
 
 urlpatterns = [
-    url(r'^', include('apps.poorly_coded_store.urls')),
+    url('', include('apps.poorly_coded_store.urls')),
 ]
